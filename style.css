@@ -1,0 +1,70 @@
+table {
+
+    color: green;
+    text-align: center;
+}
+
+p {
+
+    color: green;
+    text-align: center;
+}
+
+#history {
+
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+a {
+font-family: fantasy;
+    text-align: end;
+    text-decoration-color: blueviolet;
+    font-size: 0.5cm;
+}
+
+body {
+    background-color: aqua;
+
+}
+
+#about-me {
+    text-align: center;
+}
+
+
+
+
+
+div {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: chartreuse;
+}
+
+h1 {
+    text-align:center;
+    padding: 20px 0px 15px 5px;
+    background-color: plum;
+    font-family: fantasy;
+    font-size: 35px;
+    color: darkslateblue;
+    text-transform: uppercase;
+    text-shadow: 3px 2px mediumpurple;
+    letter-spacing: 1px;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px 0px 15px 5px;
+    background-color: plum;
+    font-family: cursive;
+    font-size: 35px;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 3px 2pitalicx mediumpurple;
+    letter-spacing: 1px;
+}
+
+

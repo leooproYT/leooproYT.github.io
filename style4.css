@@ -1,0 +1,27 @@
+
+h1 {
+    text-align: center;
+    background-color: palegreen;
+    font-family: fantasy;
+    
+}
+
+
+
+a {
+    font-family: cursive;
+}
+
+
+
+li {
+    background-color: yellowgreen;
+}
+
+ul {
+    background-color: turquoise;
+}
+
+body{
+    background-color: burlywood;
+}

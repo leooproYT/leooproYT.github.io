@@ -1,0 +1,54 @@
+h1 {
+ text-align: center;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+p {
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-color: pink;
+    border-style: groove;
+
+}
+
+p {
+    font-size: 0.7cm;
+}
+
+img {
+    width: 12% height: 10px;
+   
+}
+
+table {
+    border-collapse: collapse;
+    border-left: hidden;
+    border-right: hidden;
+    border-top: 3px solid darkslateblue;
+    border-bottom: 3px solid darkslateblue; 
+}
+th {
+    height: 50px;
+    font-size: 20px;
+    color: teal;
+    background-color: ##ffa500;
+    border: 1px solid darkslateblue;
+    border-left: 1px solid darkslateblue;
+}
+td {
+    padding: 10px;
+    border: 0px solid darkslateblue;
+    border-left: 1px solid darkslateblue;
+}
+
+
+ul {
+    padding: 10px 0px 10px 30px ;
+    background-color: mediumpurple;
+    list-style-type: circle;
+}
