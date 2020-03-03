@@ -53,6 +53,7 @@ h1 {
     text-transform: uppercase;
     text-shadow: 3px 2px mediumpurple;
     letter-spacing: 1px;
+    
 }
 
 h2 {
@@ -67,8 +68,9 @@ h2 {
     letter-spacing: 1px;
 }
 img {
-    width: auto;
-    height: auto;
+
 }
+   
+    
 
 
